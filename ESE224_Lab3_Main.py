@@ -1,12 +1,8 @@
 # ESE 224 --- Signal and Information Processing
 #
-# Spring 2021
 #
 # Lab 3: Inverse Discrete Fourier Transform
 
-###############################################################################
-############################# I M P O R T I N G ###############################
-###############################################################################
 
 # Standard libraries
 import numpy as np
